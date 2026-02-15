@@ -165,7 +165,9 @@ This project is documented in a three-part series on [tinycomputers.io](https://
 
 ## License
 
-BSD 3-Clause License. See [LICENSE](LICENSE).
+The Arduino sketch (`kz80_cpm_giga.ino`) is licensed under the BSD 3-Clause License. See [LICENSE](LICENSE).
+
+The CP/M 2.2 system files (`CPM.SYS`, `boot.bin`) and disk image (`A.DSK`) contain software originally developed by Digital Research, Inc. CP/M was released under its own license by Lifeboat Associates and later placed into free distribution by Tim Olmstead and the [Unofficial CP/M Web Site](http://www.cpm.z80.de/). These files are included for convenience and are not covered by the BSD license.
 
 ## Author
 
